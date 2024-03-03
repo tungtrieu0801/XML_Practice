@@ -60,7 +60,7 @@
             android:layout_height="40dp"
             android:layout_alignParentEnd="true"
             android:layout_centerVertical="true"
-            android:src="@drawable/eye_outline"
+            android:src="@drawable/eye_off_outline"
             android:adjustViewBounds="true"
             android:padding="10dp" />
     </RelativeLayout>
